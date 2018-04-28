@@ -1,2 +1,2 @@
 # PowerShellScripts
-PowerShell scripts repository.
+PowerShell scripts I created for automation purposes.
